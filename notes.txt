@@ -3,3 +3,25 @@ Com o lançamento do Angular 13, a versão do NodeJS mínima a ser utilizada com
 Ao executar os passos do próximo vídeo, no qual demonstro como instalar a versão 7 do NodeJS, tenha certeza de selecionar a versão 12 ou superior.
 
 O processo de instalação a ser seguido é o mesmo demonstrado no vídeo a seguir, mas certifique-se que utilizar a versão 12 ou acima do NodeJS caso deseje utilizar o Angular 13 (recomendado) como padrão.
+
+
+Notas para a versão 13 do Angular
+Notas para criar os projetos com o Angular 13:
+
+Instale a última versão do Angular CLI com o seguinte comando (talvez seja necessário executar o comando como adminstrador do sistema):
+
+npm install -g @angular/cli@latest 
+
+**Requer NodeJS versão 12 ou superior.
+
+Para verificar se a instalação está correta, execute o seguinte comando para verificar a instalação:
+
+ng --version 
+
+Você deverá receber uma mensagem no terminal com a versão do Angular CLI, que deverá ver na mensagem exibida a versão do Angular, algo parecido com "Angular CLI: 13.0.4", significando que a versão 13.x.x foi instalada no sistema.
+
+Acompanhe normalmente as aulas para criar o seu projeto, pois o mesmo já estará utilizando por padrão o Angular 13.
+
+**O arquivo zip em anexo projetos-final-angular-13.zip contém a versão final de todos os projetos configurados para o Angular 13, que poderão ser utilizados no lugar dos arquivos demonstrados no vídeo anterior (formação-angular.zip).
+
+
