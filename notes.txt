@@ -25,3 +25,4 @@ Acompanhe normalmente as aulas para criar o seu projeto, pois o mesmo já estar�
 **O arquivo zip em anexo projetos-final-angular-13.zip contém a versão final de todos os projetos configurados para o Angular 13, que poderão ser utilizados no lugar dos arquivos demonstrados no vídeo anterior (formação-angular.zip).
 
 
+REVER AULA 17
