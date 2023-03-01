@@ -1,0 +1,5 @@
+Com o lançamento do Angular 13, a versão do NodeJS mínima a ser utilizada com o Angular CLI é a versão 12.
+
+Ao executar os passos do próximo vídeo, no qual demonstro como instalar a versão 7 do NodeJS, tenha certeza de selecionar a versão 12 ou superior.
+
+O processo de instalação a ser seguido é o mesmo demonstrado no vídeo a seguir, mas certifique-se que utilizar a versão 12 ou acima do NodeJS caso deseje utilizar o Angular 13 (recomendado) como padrão.
